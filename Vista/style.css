@@ -1,0 +1,49 @@
+body{
+	magin: 0;
+	padding: 0;
+}
+
+#centrar{
+	text-align: center;
+}
+
+#medio{
+	text-align: center;
+}
+
+input{
+	width: 15%;
+	margin-top: 3%;
+	font-family: "DS-Digital", Arial;
+	font-size: 40px;
+	height: 40px;
+}
+
+b{
+	font-size: 50px;
+}
+
+button{
+	width: 10%;
+	height: 30px;
+	font-size: 20px;
+	color: white;
+	background-color: #22ECEC;
+	border-radius: 5px;
+	border: none;
+	transition-duration: 1s;
+	cursor: pointer;
+
+}
+
+#inicio:hover{
+	background-color: green;
+}
+
+#detener:hover{
+	background-color: blue;
+}
+
+#clean:hover{
+	background-color: red;
+}
